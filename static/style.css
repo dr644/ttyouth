@@ -1,0 +1,97 @@
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.bigger {
+  font-size: 135%;
+}
+
+
+.centered {
+  margin: auto;
+  padding: 1% 5% 0% 5%;
+}
+
+.nav-bar-block {
+display: block;
+}
+
+.img {
+float: left;
+width: 320px;
+height: 320px;
+background-size: cover;
+padding: 1%;
+}
+
+body {
+padding: 20px;
+}
+
+table td {
+padding: 2px;
+border: 1px solid black;
+}
+
+table {
+border: 1px solid black;
+}
+
+tr {
+border: 1px solid black;
+
+}
+
+th {
+border: 1px solid black;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.cursive {
+  font-family: 'Dancing Script', cursive;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.bigger {
+  font-size: 135%;
+}
+
+
+.centered {
+  margin: auto;
+  padding: 1% 5% 0% 5%;
+}
+
+.nav-bar-block {
+display: block;
+}
+
+.img {
+float: left;
+width: 320px;
+height: 320px;
+background-size: cover;
+padding: 1%;
+}
+
+.lobster {
+width: 278px;
+height: 174px;
+background-size: cover;
+}
+
