@@ -3,8 +3,10 @@
 {% block content %}
 <title>Event Photos</title>
 <div class="roboto">
+
+
 {% for image in images %}
-    <a href="{{ MEDIA_ROOT }}/media/ttyouth1/images/{{ image }}"><img src="{{ MEDIA_ROOT }}/media/ttyouth1/images/{{ image }}" class="img"></a>
+    <a href="{{ MEDIA_ROOT }}/media/events/images/{{ image }}"><img src="{{ MEDIA_ROOT }}/media/events/images/{{ image }}" class="img"></a>
     {% endfor %}
 </div>
 {% endblock %}

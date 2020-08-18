@@ -13,9 +13,12 @@ def home(request):
 
 def photos(request):
     path = settings.MEDIA_ROOT
-    img_list = os.listdir(path + "/ttyouth1/images/")
+    img_list = os.listdir(path + "/events/images/")
     context = {"images": img_list}
     return render (request, 'ttyouth1/photos.html', context)
 
 def sponsors(request):
-    return render(request, 'ttyouth1/sponsors.html')
+    path = settings.MEDIA_ROOT
+    img_list = os.listdir(path + "/sponsors/images/")
+    context = {"images": img_list}
+    return render(request, 'ttyouth1/sponsors.html', context)

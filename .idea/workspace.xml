@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" line="5" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b04320a-c99f-4bf3-8b4d-b4fd28db6e63" name="Default Changelist" comment="" />
+    <list default="true" id="6b04320a-c99f-4bf3-8b4d-b4fd28db6e63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/ttyouth1/sponsors/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttyouth/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ttyouth/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html" beforeDir="false" afterPath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttyouth1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ttyouth1/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +74,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttyouth/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="541">
-              <caret line="132" column="26" selection-start-line="132" selection-start-column="26" selection-end-line="132" selection-end-column="26" />
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -22,8 +86,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-end-line="7" />
+            <state relative-caret-position="136">
+              <caret line="8" column="134" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="142" selection-start-line="10" selection-start-column="142" selection-end-line="10" selection-end-column="142" />
             </state>
           </provider>
         </entry>
@@ -32,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -40,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="-272">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -49,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttyouth/local_settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -70,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttyouth1/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -79,18 +152,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="887">
+              <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -107,20 +175,23 @@
       <find>curs</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/static/templates/ttyouth1/base.html" />
         <option value="$PROJECT_DIR$/ttyouth/urls.py" />
         <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/donate.html" />
-        <option value="$PROJECT_DIR$/ttyouth1/views.py" />
-        <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html" />
         <option value="$PROJECT_DIR$/ttyouth/local_settings.py" />
-        <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/base.html" />
         <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/home.html" />
-        <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" />
+        <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html" />
+        <option value="$PROJECT_DIR$/ttyouth1/views.py" />
+        <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/ttyouth/settings.py" />
+        <option value="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" />
       </list>
     </option>
   </component>
@@ -130,6 +201,7 @@
     <option name="width" value="1400" />
     <option name="height" value="796" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -152,22 +224,13 @@
               <item name="ttyouth-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="ttyouth-project" type="462c0819:PsiDirectoryNode" />
               <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="ttyouth1" type="462c0819:PsiDirectoryNode" />
+              <item name="events" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ttyouth-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="ttyouth-project" type="462c0819:PsiDirectoryNode" />
               <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="ttyouth1" type="462c0819:PsiDirectoryNode" />
               <item name="sponsors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ttyouth-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ttyouth-project" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="ttyouth1" type="462c0819:PsiDirectoryNode" />
-              <item name="sponsors" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ttyouth-project" type="b2602c69:ProjectViewProjectNode" />
@@ -209,6 +272,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David\Desktop\mario\ttyouth-project\media" />
       <recent name="C:\Users\David\Desktop\mario\ttyouth-project\static" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -250,7 +314,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3296875" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,23 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttyouth1/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ttyouth/local_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ttyouth/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
@@ -318,9 +365,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/donate.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -332,35 +376,59 @@
     <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="-272">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html">
+    <entry file="file://$PROJECT_DIR$/ttyouth1/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-end-line="7" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
+    <entry file="file://$PROJECT_DIR$/ttyouth/local_settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ttyouth/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
-          <caret line="132" column="26" selection-start-line="132" selection-start-column="26" selection-end-line="132" selection-end-column="26" />
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/photos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="134" selection-start-line="8" selection-start-column="122" selection-end-line="8" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="142" selection-start-line="10" selection-start-column="142" selection-end-line="10" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="100" column="10" lean-forward="true" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
         </state>
       </provider>
     </entry>
