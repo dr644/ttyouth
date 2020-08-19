@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" line="5" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b04320a-c99f-4bf3-8b4d-b4fd28db6e63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html" afterDir="false" />
-    </list>
+    <list default="true" id="6b04320a-c99f-4bf3-8b4d-b4fd28db6e63" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="289">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -209,7 +207,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python/django/declaration-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -249,7 +247,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1943" y="39" width="1400" height="796" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
@@ -368,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ttyouth1/templates/ttyouth1/sponsors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
